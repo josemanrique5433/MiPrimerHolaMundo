@@ -2,6 +2,6 @@
 {
     static void Main(string[] args)
     {
-        Console.WriteLine("Hola mundo cómo están?, Espero estén muy bien!!");
+        Console.WriteLine("Hola mundo cómo están?!!");
     }
 }
